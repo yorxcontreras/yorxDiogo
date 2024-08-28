@@ -1,0 +1,6 @@
+###
+GET http://localhost:5207
+### Testar a segunda funcionalidade
+GET http://localhost:5207/segundafuncionalidade
+###
+GET http://localhost:5207/retornar
